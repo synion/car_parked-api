@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/synion/car_parked-api.svg?branch=master)](https://travis-ci.org/synion/car_parked-api)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
